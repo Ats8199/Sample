@@ -12,6 +12,7 @@ public class Arts {
 }
 	public void bEd() {
 	System.out.println("Bachelor of Education");
-	System.out.println("Bachelor ofEduc");
+	System.out.println("Bachelor Educ");
+	System.out.println("Bachelor of Educ");
 }
 }
